@@ -2,10 +2,10 @@
 practice repository to learn R
 
 I know Python, and this repository is for me to learn R and R syntax.
-# Instructions to Run
-* 1. Download and install R - https://www.r-project.org/ 
-* 2. On Windows, navigate to the ```R/bin/``` directory on the command line
-* 3. Run desired R script: ``` Rscript.exe <full-pathname-for-my-R-script.R> ```
+# Instructions to Download R and Run R Scripts on Windows OS
+ 1. Download and install R - https://www.r-project.org/ 
+ 2. On Windows, navigate to the ```R/bin/``` directory on the command line
+ 3. Run desired R script: ``` Rscript.exe <full-pathname-for-my-R-script.R> ```
 
 # Tutorial Exercises
 ## Classic Iris Exercise
